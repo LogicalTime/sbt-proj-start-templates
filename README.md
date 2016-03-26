@@ -1,0 +1,1 @@
+# sbt-proj-start-templates
